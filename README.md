@@ -26,3 +26,9 @@ Every tool is assessed on:
 - Gaps & limitations  
 - Who it's best for
 - Verdict & recommendation
+
+
+| Tool | Category | Rating | Date |
+|---|---|---|---|
+| Gumloop | AI Workflow Automation | ⭐⭐⭐½ | Jul 2026 |
+| Lyzr | Enterprise Agent Platform | ⭐⭐⭐⭐ | Jul 2026 |
