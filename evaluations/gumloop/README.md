@@ -2,4 +2,5 @@
 
 Detailed evaluation of Gumloop from an AI agent builder's perspective.
 
-See the accompanying PDF for the complete evaluation.
+## Detailed Evaluation
+[📄 View Gumloop Analysis](./gumloop_analysis.pdf)
