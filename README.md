@@ -32,3 +32,4 @@ Every tool is assessed on:
 |---|---|---|---|
 | Gumloop | AI Workflow Automation | ⭐⭐⭐½ | Jul 2026 |
 | Lyzr | Enterprise Agent Platform | ⭐⭐⭐⭐ | Jul 2026 |
+| Dust.ai | Enterprise AI Platform | ⭐⭐½ | Jul 2026 |
